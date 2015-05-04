@@ -1,0 +1,7 @@
+{
+	"baseUrl": "http://sd-12.com/testflow/",
+	"suites": [],
+	"emailRecipients": [
+		"michael.pidde@gmail.com"
+	]
+}
