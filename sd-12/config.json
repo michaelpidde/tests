@@ -3,5 +3,6 @@
 	"suites": [],
 	"emailRecipients": [
 		"michael.pidde@gmail.com"
-	]
+	],
+	"logPath": "~/testresults/"
 }
